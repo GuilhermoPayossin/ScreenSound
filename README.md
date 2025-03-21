@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O ScreenSound é um sistema para catalogar e consultar informações sobre músicas e artistas. Ele utiliza o Spring Data JPA para persistência de dados em um banco de dados PostgreSQL.
+O ScreenSound é um sistema para armazenar informações sobre músicas e artistas. Ele utiliza o Spring Data JPA para persistência de dados em um banco de dados PostgreSQL.
 
 O objetivo deste projeto é praticar os conceitos de JPA e meu conhecimento em Banco de Dados.
 
